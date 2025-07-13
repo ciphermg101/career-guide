@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19932637&assignment_repo_type=AssignmentRepo)
 # Career Guidance Platform (MERN)
 
+![Home Page](images/home.png)
+
 ## Overview
 A full-stack MERN application for exploring tech career paths, with a modern, animated, and responsive UI.
 
@@ -52,6 +54,14 @@ A full-stack MERN application for exploring tech career paths, with a modern, an
 - Resources: `GET /api/resources`
 - Health: `GET /health`
 
+### Deployment Platforms
+
+#### Backend (Render)
+![Render Dashboard](images/render.png)
+
+#### Frontend (Vercel)
+![Vercel Dashboard](images/vercel.png)
+
 ## Getting Started
 
 ### Prerequisites
@@ -98,7 +108,9 @@ npm run dev
 
 ### Quick Deploy
 1. **Backend (Render)**: Follow the [deployment guide](DEPLOYMENT.md#backend-deployment-render)
+   ![Render Platform](images/render.png)
 2. **Frontend (Vercel)**: Follow the [deployment guide](DEPLOYMENT.md#frontend-deployment-vercel)
+   ![Vercel Platform](images/vercel.png)
 3. **CI/CD**: Set up GitHub Actions for automatic deployments
 
 ### Manual Deployment Steps
@@ -154,8 +166,17 @@ npm run seed     # Seed database with sample data
 ```
 
 ## 📱 Screenshots
-- ![App Screenshot](screenshots/app.png)
-- ![CI/CD Pipeline](screenshots/cicd.png)
+
+### Application Interface
+![Home Page](images/home.png)
+
+### Deployment Platforms
+
+#### Render (Backend)
+![Render Deployment](images/render.png)
+
+#### Vercel (Frontend)
+![Vercel Deployment](images/vercel.png)
 
 ## 🔧 Maintenance
 - Regular updates and patches
