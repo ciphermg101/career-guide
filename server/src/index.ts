@@ -32,7 +32,8 @@ app.use(compression());
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
-  'https://career-guide-six.vercel.app/',
+  'https://career-guide-api.onrender.com/*',
+  'https://career-guide-six.vercel.app/*',
   process.env.CLIENT_ORIGIN,
 ].filter((origin): origin is string => Boolean(origin));
 
