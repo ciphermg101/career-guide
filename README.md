@@ -42,7 +42,7 @@ A full-stack MERN application for exploring tech career paths, with a modern, an
 ## 🚀 Live URLs
 
 ### Production Deployment
-- **Frontend**: [https://career-guide-six.vercel.app](https://your-app-name.vercel.app)
+- **Frontend**: [https://career-guide-six.vercel.app](https://career-guide-six.vercel.app)
 - **Backend API**: [https://career-guide-api.onrender.com](https://career-guide-api.onrender.com)
 - **API Health Check**: [https://career-guide-api.onrender.com/health](https://career-guide-api.onrender.com/health)
 
