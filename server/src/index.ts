@@ -32,7 +32,7 @@ app.use(compression());
 const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:3000',
-  'https://your-frontend-domain.vercel.app', // Replace with your actual Vercel domain
+  'https://career-guide-six.vercel.app/',
   process.env.CLIENT_ORIGIN,
 ].filter((origin): origin is string => Boolean(origin));
 
